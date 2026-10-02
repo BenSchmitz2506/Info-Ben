@@ -19,13 +19,13 @@ style: |
      änderst du nur diese sieben Zeilen – nicht die Klassen. */
 
   :root {
-    --blau:      #000000;   /* Titel, Balken, Linien */
-    --blau-hell: #000000;   /* Akzente, Rand der Karten */
-    --flaeche:   #c8ccd1;   /* Hintergründe von Kästen */
+    --blau:      #17324d;   /* Titel, Balken, Linien */
+    --blau-hell: #24527a;   /* Akzente, Rand der Karten */
+    --flaeche:   #f7f9fc;   /* Hintergründe von Kästen */
     --flaeche-2: #edf5fb;   /* zweiter Hintergrundton */
     --flaeche-3: #e8f1f8;   /* dritter Hintergrundton */
-    --flaeche-4: #a9c1cf;   /* Karten */
-    --gelb:      #f7f7f7;   /* Hervorhebung */
+    --flaeche-4: #eef5f9;   /* Karten */
+    --gelb:      #f4d35e;   /* Hervorhebung */
   }
 
   /* --- Die Folie selbst ------------------------------------------
@@ -215,6 +215,34 @@ style: |
 
 <div class="titel">
 
+# Eine breite und eine schmale Spalte
+
+</div>
+
+<div class="grid-2" style="grid-template-columns: 2fr 1fr; align-items: center;">
+  <div class="spalte">
+
+  - Erklärung, Aufzählung oder Fließtext
+  - Der Text bekommt zwei Teile der Breite
+
+  </div>
+  <div class="spalte">
+
+  **Kurzfassung**
+
+  - Ein Satz
+
+  </div>
+</div>
+
+<div class="fusszeile">
+  Detail und Überblick · Name, Klasse
+</div>
+
+---
+
+<div class="titel">
+
 # Drei Dienste im Überblick
 
 </div>
@@ -252,3 +280,62 @@ style: |
 <div class="fusszeile">
   Überblick · Name, Klasse
 </div>
+
+---
+
+<div class="titel">
+
+# Merksatz oder Kasten
+
+</div>
+
+<div class="merksatz">
+  Ein Satz, den das Publikum behalten soll.
+</div>
+
+<div class="box">
+
+- Ein Punkt
+- Ein weiterer Punkt
+
+</div>
+
+<div class="fusszeile">
+  Merksatz · Name, Klasse
+</div>
+
+---
+
+<div class="titel">
+
+# Bild mit Beschreibung
+
+</div>
+
+<div class="bild">
+
+![Kurze Beschreibung des Bildes](bilder/beispiel.png)
+
+</div>
+
+<div class="fusszeile">
+  Bild · Name, Klasse
+</div>
+
+---
+
+<div class="titel">
+
+# Quellen
+
+</div>
+
+<div class="liste">
+
+- [ChatGPT](https://beispiel.de), abgerufen am TT.MM.JJ
+- [google Gemini](https://beispiel.de), vom TT.MM.JJ
+
+</div>
+
+<div class="fusszeile">
+  Quellen · Name, Klasse
