@@ -142,7 +142,7 @@ style: |
 
 <div class="titel">
 
-# Titel deiner Präsentation
+# Passwortmanager
 
 </div>
 
@@ -150,8 +150,8 @@ style: |
 
 - Heutige Bedeutung: Warum ist das Thema gerade jetzt wichtig?
 - Leitfrage und Ziel: Was möchte ich zeigen oder klären?
-- Name
-- Klasse
+- Ben Jansweidt
+- 9a
 - Datum
 
 </div>

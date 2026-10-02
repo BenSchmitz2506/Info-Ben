@@ -1,0 +1,1 @@
+1.10.2: Ich habe anhand der vorlage agefangen die Infos auf die jeweiligen Folien zu schreiben.
