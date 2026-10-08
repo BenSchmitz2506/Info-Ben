@@ -150,9 +150,9 @@ style: |
 
 - Heutige Bedeutung: Warum ist das Thema gerade jetzt wichtig?
 - Leitfrage und Ziel: Was möchte ich zeigen oder klären?
-- Ben Jansweidt
-- 9a
-- Datum
+- Name: Ben Jansweidt
+- Klasse: 9a
+- Datum: 
 
 </div>
 
