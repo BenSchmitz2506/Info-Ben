@@ -164,45 +164,54 @@ style: |
 
 <div class="titel">
 
-# Eine Folie mit einer Aussage
+# Welche wichtigen Funktionen kann ich kostenlos bei einem Passwortmanager nutzen?
 
 </div>
 
 <div class="liste">
 
-- Erster Stichpunkt
-- Zweiter Stichpunkt
-- Dritter Stichpunkt
+- Sichere Speicherung von Passwörtern
+- Bearbeitung und Verwaltung von Paswörtern
+- Nutzung auf mehreren Geräten
+- Verschlüsselung der Passwörter
+- Sichere Notizen und Überprüfungen
 
 </div>
 
 <div class="fusszeile">
-  Einleitung · Name, Klasse
+  Passwortmanager · Ben Schmitz , 9A
 </div>
 
 ---
 
 <div class="titel">
 
-# Kostenmodell und Quellcode getrennt betrachten
+# Vor-& Nachteile von kostenlosen Passwortmanagern
 
 </div>
 
 <div class="grid-2">
   <div class="spalte">
 
-  **Kostenmodell**
+  **Vorteile**
 
-  - kostenpflichtig oder kostenlos?
-  - kostenlose Grundfunktionen, Zusatzangebote?
+  - keine Gebühren
+  - ebenfalls sicheres Speichern und Verschlüsseln
+  - gut zum ausprobieren von dingen
+  
 
   </div>
   <div class="spalte">
 
-  **Quellcode**
+  **Nachteile**
 
-  - öffentlich zugänglich?
-  - Lizenz und Beleg prüfen
+  - weniger Geräte nutzbar
+  - Weniger Komfortfunktionen
+  - Oft viel (Eigen-)Werbung
+  - weniger Zusatzfunktionen
+  - Weniger Sicherheitsfunktionen
+  - Eingeschränkte Synchroniesierung 
+
 
   </div>
 </div>
