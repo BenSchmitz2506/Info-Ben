@@ -150,59 +150,64 @@ style: |
 
 - Heutige Bedeutung: Warum ist das Thema gerade jetzt wichtig?
 - Leitfrage und Ziel: Was möchte ich zeigen oder klären?
-- Ben Jansweidt
-- 9a
-- Datum
+- Name: Ben Jansweidt
+- Klasse: 9a
+- Datum: 
 
 </div>
 
 <div class="fusszeile">
-  Titel · Name, Klasse
+  
 </div>
 
 ---
 
 <div class="titel">
 
-# Eine Folie mit einer Aussage
+# Welche wichtigen Funktionen kann ich kostenlos nutzen?
 
 </div>
 
 <div class="liste">
 
-- Erster Stichpunkt
-- Zweiter Stichpunkt
-- Dritter Stichpunkt
+- 🔐 Unbegrenzt viele Passwörter speichern 
+- 📱 Auf mehreren Geräten synchronisieren
+- 🌐 Automatisches Ausfüllen
+- 🔑 Sichere Passwörter generieren 
+- 🛡️ Passkeys speichern und verwenden 
+- 🚨 Schwache oder wiederverwendete Passwörter erkennen 
 
 </div>
 
 <div class="fusszeile">
-  Einleitung · Name, Klasse
+  
 </div>
 
 ---
 
 <div class="titel">
 
-# Kostenmodell und Quellcode getrennt betrachten
+# Vor-& Nachteile eines Passwortmanagers
 
 </div>
 
 <div class="grid-2">
   <div class="spalte">
 
-  **Kostenmodell**
+  **Vorteil**
 
-  - kostenpflichtig oder kostenlos?
-  - kostenlose Grundfunktionen, Zusatzangebote?
+  - 🔐 Mehr Sicherheit
+  - 🧠 Keine Passwörter merken
+  - 🚨 Schutz vor Passwort-Wiederverwendung
 
   </div>
   <div class="spalte">
 
-  **Quellcode**
+  **Nachteil**
 
-  - öffentlich zugänglich?
-  - Lizenz und Beleg prüfen
+  - 🎯 Ein zentraler Angriffspunkt
+  - 💰 Teilweise kostenpflichtig
+  -💻 Abhängigkeit von der Software
 
   </div>
 </div>
