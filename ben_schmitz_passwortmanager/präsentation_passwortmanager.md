@@ -148,7 +148,7 @@ style: |
 
 <div class="liste">
 
-- Was möchte ich erreichen? - Das 
+- Was möchte ich erreichen? - Nutzen von sicheren Passwortmanagern für weniger Ausgaben von Geld
 - Leitfrage und Ziel: Was möchte ich zeigen oder klären?
 - Ben-Luca Schmitz
 - Klasse 9A I Diff.-Kurs Informatik
@@ -217,47 +217,89 @@ style: |
 </div>
 
 <div class="fusszeile">
-  Überblick · Name, Klasse
+  Passwortmanager · Ben Schmitz , 9A
 </div>
 
 ---
 
 <div class="titel">
 
-# Drei Dienste im Überblick
-
+# Drei kostenlose qualititave Passwortmanager
 </div>
 
 <div class="karten">
   <div class="karte">
 
-  **Dienst A**
+  **Bitwarden**
 
-  - Kostenmodell: …
-  - Quellcode: …
-  - Unterschied: …
-
-  </div>
-  <div class="karte">
-
-  **Dienst B**
-
-  - Kostenmodell: …
-  - Quellcode: …
-  - Unterschied: …
+  - Unbegrenzt Passwörter Speichern
+  - Open Source
+  - Synchroniesierung über Onlinedienst nach Abspeicherung in der Cloud
 
   </div>
   <div class="karte">
 
-  **Dienst C**
+  **KeePassXC**
 
-  - Kostenmodell: …
-  - Quellcode: …
-  - Unterschied: …
+  - komplett kostenlos und Open Source
+  - Zugriff jederzeit auf eigene Passwortdatenbank
+  - Eigene Kümmerung um Backups
+
+  </div>
+  <div class="karte">
+
+  **Protonpass**
+
+  - Ende zu Ende Verschlüsselung
+  - Nutzung von Onlinedienst von Proton nach Synchroniesierung
 
   </div>
 </div>
 
 <div class="fusszeile">
-  Überblick · Name, Klasse
+  Passwortmanager · Ben Schmitz , 9A
 </div>
+
+---
+
+<div class="titel">
+
+# Wichtige Funktionen von kostenpflichtigen Versionen  bei Passwortmanagern
+
+</div>
+
+<div class="liste">
+
+- Synchronisierung auf beliebig vielen Geräten
+- Detaillierte Analysen und doppeltes Absichern von Daten
+- Direkter Kontakt und Support beim Managerdienst
+- Größerer Verschlüsselter Daten- & Speicherplatz
+- Erweiterte Authentifizierungsfunktionen
+
+</div>
+
+<div class="fusszeile">
+  Passwortmanager · Ben Schmitz, 9A
+</div>
+
+---
+
+<div class="titel">
+
+# Darum bieten Kostenpflichtige Premiumfunktionen mehr als kostenlose Nutzungen
+
+</div>
+
+<div class="liste">
+
+- Mehr Geld
+- Höhere Server und Speicherkosten
+- Profesioneller Kundensupport jederzeit
+
+</div>
+
+<div class="fusszeile">
+  Passwortmanager · Ben Schmitz , 9A
+</div>
+
+---
