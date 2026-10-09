@@ -213,29 +213,35 @@ style: |
 </div>
 
 <div class="fusszeile">
-  Überblick · Name, Klasse
+  
 </div>
 
 ---
 
 <div class="titel">
 
-# Eine breite und eine schmale Spalte
+# Unterschiede Kostenpflichtige und Kostenlose Version
 
 </div>
 
 <div class="grid-2" style="grid-template-columns: 2fr 1fr; align-items: center;">
   <div class="spalte">
 
-  - Erklärung, Aufzählung oder Fließtext
-  - Der Text bekommt zwei Teile der Breite
+  **Unterschiede**
+
+  - 💰 Kosten
+  - 🛡️ Sicherheitsfunktionen
+  - 🚨 Zusatzfunktionen
+  
 
   </div>
   <div class="spalte">
 
-  **Kurzfassung**
+  **Gleichheiten**
 
-  - Ein Satz
+  -🔒 Passwörter sicher speichern
+  -✍️ Passwörter automatisch ausfüllen
+  -🔐 Sichere Passwörter erstellen
 
   </div>
 </div>
@@ -248,42 +254,42 @@ style: |
 
 <div class="titel">
 
-# Drei Dienste im Überblick
+# Drei Passwortmanager im Überblick
 
 </div>
 
 <div class="karten">
   <div class="karte">
 
-  **Dienst A**
+  **Bitwarden**
 
-  - Kostenmodell: …
-  - Quellcode: …
-  - Unterschied: …
-
-  </div>
-  <div class="karte">
-
-  **Dienst B**
-
-  - Kostenmodell: …
-  - Quellcode: …
-  - Unterschied: …
+  - Kostenmodell: Kostenlos und kostenpflichtig
+  - Quellcode: Open Source
+  - Unterschiede: Günstig und mit einfacher Synchronisierung.
 
   </div>
   <div class="karte">
 
-  **Dienst C**
+  **1Passwort**
 
-  - Kostenmodell: …
-  - Quellcode: …
-  - Unterschied: …
+  - Kostenmodell: Kostenpflichtiges Abonnement
+  - Quellcode: Proprietär
+  - Unterschiede: Besonders komfortabel, aber ohne dauerhaft kostenlose Vollversion.
+
+  </div>
+  <div class="karte">
+
+  **Keepass**
+
+  - Kostenmodell: Kostenlos
+  - Quellcode: Open Source
+  - Unterschiede: Lokale Speicherung, Synchronisierung muss selbst eingerichtet werden.
 
   </div>
 </div>
 
 <div class="fusszeile">
-  Überblick · Name, Klasse
+  
 </div>
 
 ---
@@ -344,3 +350,13 @@ style: |
 
 <div class="fusszeile">
   Quellen · Name, Klasse
+
+---
+
+
+
+https://bitwarden.com/pricing/
+
+https://1password.com/pricing/
+
+https://keepass.info/
