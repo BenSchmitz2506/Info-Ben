@@ -281,9 +281,9 @@ style: |
 
   **Keepass**
 
-  - Kostenmodell: …
-  - Quellcode: …
-  - Unterschied: …
+  - Kostenmodell: Kostenlos
+  - Quellcode: Open Source
+  - Unterschiede: Lokale Speicherung, Synchronisierung muss selbst eingerichtet werden.
 
   </div>
 </div>
@@ -350,3 +350,13 @@ style: |
 
 <div class="fusszeile">
   Quellen · Name, Klasse
+
+---
+
+
+
+https://bitwarden.com/pricing/
+
+https://1password.com/pricing/
+
+https://keepass.info/
