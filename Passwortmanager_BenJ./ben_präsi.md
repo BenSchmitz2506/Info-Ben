@@ -148,7 +148,7 @@ style: |
 
 <div class="liste">
 
-- Heutige Bedeutung: Warum ist das Thema gerade jetzt wichtig?
+- Heutige Bedeutung: Warum sind sichere Passwortmanager gerade jetzt wichtig?
 - Leitfrage und Ziel: Was möchte ich zeigen oder klären?
 - Name: Ben Jansweidt
 - Klasse: 9a
@@ -170,12 +170,12 @@ style: |
 
 <div class="liste">
 
-- 🔐 Unbegrenzt viele Passwörter speichern 
-- 📱 Auf mehreren Geräten synchronisieren
-- 🌐 Automatisches Ausfüllen
-- 🔑 Sichere Passwörter generieren 
-- 🛡️ Passkeys speichern und verwenden 
-- 🚨 Schwache oder wiederverwendete Passwörter erkennen 
+-  Unbegrenzt viele Passwörter speichern 
+-  Auf mehreren Geräten synchronisieren
+-  Automatisches Ausfüllen
+-  Sichere Passwörter generieren 
+-  Passkeys speichern und verwenden 
+-  Schwache oder wiederverwendete Passwörter erkennen 
 
 </div>
 
@@ -196,18 +196,18 @@ style: |
 
   **Vorteil**
 
-  - 🔐 Mehr Sicherheit
-  - 🧠 Keine Passwörter merken
-  - 🚨 Schutz vor Passwort-Wiederverwendung
+  -  Mehr Sicherheit
+  -  Keine Passwörter merken
+  -  Schutz vor Passwort-Wiederverwendung
 
   </div>
   <div class="spalte">
 
   **Nachteil**
 
-  - 🎯 Ein zentraler Angriffspunkt
-  - 💰 Teilweise kostenpflichtig
-  -💻 Abhängigkeit von der Software
+  -  Ein zentraler Angriffspunkt
+  -  Teilweise kostenpflichtig
+  -  Abhängigkeit von der Software
 
   </div>
 </div>
@@ -229,9 +229,9 @@ style: |
 
   **Unterschiede**
 
-  - 💰 Kosten
-  - 🛡️ Sicherheitsfunktionen
-  - 🚨 Zusatzfunktionen
+  -  Kosten
+  -  Sicherheitsfunktionen
+  -  Zusatzfunktionen
   
 
   </div>
@@ -239,9 +239,9 @@ style: |
 
   **Gleichheiten**
 
-  -🔒 Passwörter sicher speichern
-  -✍️ Passwörter automatisch ausfüllen
-  -🔐 Sichere Passwörter erstellen
+  - Passwörter sicher speichern
+  - Passwörter automatisch ausfüllen
+  - Sichere Passwörter erstellen
 
   </div>
 </div>
@@ -301,18 +301,18 @@ style: |
 </div>
 
 <div class="merksatz">
-  Ein Satz, den das Publikum behalten soll.
+  Ein Passwortmanager schützt deine Passwörter, damit du deine Online-Konten sicherer und einfacher nutzen kannst – du musst dir nur noch ein starkes Master-Passwort merken.
 </div>
 
 <div class="box">
 
-- Ein Punkt
-- Ein weiterer Punkt
+- wegen der vielen Hackerangriffen in der letzten Zeit
+- und es auch so doof wäre wenn andere auf deine persönlichen sachen zugreifen können 
 
 </div>
 
 <div class="fusszeile">
-  Merksatz · Name, Klasse
+  
 </div>
 
 ---
@@ -330,33 +330,24 @@ style: |
 </div>
 
 <div class="fusszeile">
-  Bild · Name, Klasse
+  
 </div>
 
 ---
 
 <div class="titel">
 
-# Quellen
+
 
 </div>
 
 <div class="liste">
 
-- [Titel der Quelle](https://beispiel.de), abgerufen am TT.MM.JJ
-- [Titel der zweiten Quelle](https://beispiel.de), vom TT.MM.JJ
+
 
 </div>
 
 <div class="fusszeile">
-  Quellen · Name, Klasse
+  
 
 ---
-
-
-
-https://bitwarden.com/pricing/
-
-https://1password.com/pricing/
-
-https://keepass.info/
