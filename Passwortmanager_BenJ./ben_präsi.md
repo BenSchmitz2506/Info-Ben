@@ -149,15 +149,17 @@ style: |
 <div class="liste">
 
 - Heutige Bedeutung: Warum sind sichere Passwortmanager gerade jetzt wichtig?
-- Leitfrage und Ziel: 
+- Leitfrage und Ziel: Mein Ziel ist es zu erklären, wie Passwortmanager unsere Konten schützen und warum sie nützlich sind.
 - Name: Ben Jansweidt
 - Klasse: 9a
 - Datum: 
 
 </div>
-<!--!
+<!--
+Warum Passwortmanagergerade jetzt wichtig sind?
+Mein Ziel ist es zu erklären, wie Passwortmanager unsere Konten schützen und warum sie nützlich sind.
+-->
 
->
 <div class="fusszeile">
   
 </div>
@@ -180,7 +182,14 @@ style: |
 -  Schwache oder wiederverwendete Passwörter erkennen 
 
 </div>
-
+<!--
+-  Unbegrenzt viele Passwörter speichern 
+-  Auf mehreren Geräten synchronisieren
+-  Automatisches Ausfüllen
+-  Sichere Passwörter generieren 
+-  Passkeys speichern und verwenden 
+-  Schwache oder wiederverwendete Passwörter erkennen 
+-->
 <div class="fusszeile">
   
 </div>
@@ -211,6 +220,19 @@ style: |
   -  Teilweise kostenpflichtig
   -  Abhängigkeit von der Software
 
+<!--
+
+**Vorteil**
+
+  -  Mehr Sicherheit
+  -  Keine Passwörter merken
+  -  Schutz vor Passwort-Wiederverwendung
+  **Nachteil**
+
+  -  Ein zentraler Angriffspunkt
+  -  Teilweise kostenpflichtig
+  -  Abhängigkeit von der Software
+-->
   </div>
 </div>
 
@@ -245,11 +267,24 @@ style: |
   - Passwörter automatisch ausfüllen
   - Sichere Passwörter erstellen
 
+<!--
+**Unterschiede**
+
+  -  Kosten
+  -  Sicherheitsfunktionen
+  -  Zusatzfunktionen
+   **Gleichheiten**
+
+  - Passwörter sicher speichern
+  - Passwörter automatisch ausfüllen
+  - Sichere Passwörter erstellen
+-->
   </div>
 </div>
+<!--
 
 <div class="fusszeile">
-  Detail und Überblick · Name, Klasse
+  
 </div>
 
 ---
@@ -287,6 +322,23 @@ style: |
   - Quellcode: Open Source
   - Unterschiede: Lokale Speicherung, Synchronisierung muss selbst eingerichtet werden.
 
+<!--
+**Bitwarden**
+
+  - Kostenmodell: Kostenlos und kostenpflichtig
+  - Quellcode: Open Source
+  - Unterschiede: Günstig und mit einfacher Synchronisierung.
+  **1Passwort**
+
+  - Kostenmodell: Kostenpflichtiges Abonnement
+  - Quellcode: Proprietär
+  - Unterschiede: Besonders komfortabel, aber ohne dauerhaft kostenlose Vollversion.
+  **Keepass**
+
+  - Kostenmodell: Kostenlos
+  - Quellcode: Open Source
+  - Unterschiede: Lokale Speicherung, Synchronisierung muss selbst eingerichtet werden.
+-->
   </div>
 </div>
 
@@ -298,7 +350,7 @@ style: |
 
 <div class="titel">
 
-# Merksatz oder Kasten
+# Merksatz 
 
 </div>
 
@@ -312,7 +364,11 @@ style: |
 - und es auch so doof wäre wenn andere auf deine persönlichen sachen zugreifen können 
 
 </div>
-
+<!--
+Ein Passwortmanager schützt deine Passwörter, damit du deine Online-Konten sicherer und einfacher nutzen kannst – du musst dir nur noch ein starkes Master-Passwort merken.
+- wegen der vielen Hackerangriffen in der letzten Zeit
+- und es auch so blöd wäre wenn andere auf deine persönlichen sachen zugreifen können 
+-->
 <div class="fusszeile">
   
 </div>
@@ -321,35 +377,50 @@ style: |
 
 <div class="titel">
 
-# Bild mit Beschreibung
-
-</div>
-
-<div class="bild">
-
-![Kurze Beschreibung des Bildes](bilder/beispiel.png)
-
-</div>
-
-<div class="fusszeile">
-  
-</div>
-
----
-
-<div class="titel">
-
-
+# Warum sind Passwortmanager heute insgesamt so wichtig?
 
 </div>
 
 <div class="liste">
 
+- Schutz vor Hackern und Diebstahl 
+- Verhindern mehrfach verwendeter Passwörter
+- Schutz persönlicher Daten und Konten
+- Erstellen starker Passwörter
 
-
-</div>
+<!--
+Warum sind Passwortmanager heute wichtig?
+- Schutz vor Hackern und Datendiebstahl: Starke Passwörter sind schwerer zu knacken und schützen unsere Konten besser.
+- Verhindern mehrfach verwendeter Passwörter: Wenn ein Passwort gestohlen wird, bleiben andere Konten mit eigenen Passwörtern besser geschützt.
+- Schutz persönlicher Daten und Konten: Passwortmanager helfen dabei, private Informationen vor fremdem Zugriff zu schützen.
+- Erstellen starker Passwörter: Sie erzeugen lange und zufällige Passwörter, die schwer zu erraten sind.
+-->
 
 <div class="fusszeile">
   
+</div>
 
 ---
+
+<div class="titel">
+
+# Wie sicher ist ein Passwortmanager?
+
+</div>
+
+<div class="liste">
+
+- Verschlüsselung schützt gespeicherte Passwörter
+- Starkes Master-Passwort ist wichtig
+- Zwei-Faktor-Authentifizierung bietet zusätzlichen Schutz 
+
+<!--
+Wie sicher ist ein Passwortmanager?
+- Verschlüsselung schützt gespeicherte Passwörter: Dadurch können Unbefugte die Passwörter ohne den passenden Schlüssel nicht einfach lesen.
+- Starkes Master-Passwort ist wichtig: Es erschwert es Hackern, Zugriff auf alle gespeicherten Passwörter zu bekommen.
+- Zwei-Faktor-Authentifizierung bietet zusätzlichen Schutz: Selbst wenn jemand das Passwort kennt, braucht er noch einen zweiten Nachweis, um sich anzumelden.
+-->
+
+<div class="fusszeile">
+  
+</div>
