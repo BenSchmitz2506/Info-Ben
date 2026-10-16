@@ -149,7 +149,7 @@ style: |
 <div class="liste">
 
 - Heutige Bedeutung: Warum sind sichere Passwortmanager gerade jetzt wichtig?
-- Leitfrage und Ziel: Was möchte ich zeigen oder klären?
+- Leitfrage und Ziel: 
 - Name: Ben Jansweidt
 - Klasse: 9a
 - Datum: 
