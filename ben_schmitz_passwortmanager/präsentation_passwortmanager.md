@@ -295,6 +295,7 @@ style: |
 - Mehr Geld
 - Höhere Server und Speicherkosten
 - Profesioneller Kundensupport jederzeit
+- mehrer Zusatzdienste
 
 </div>
 
@@ -303,3 +304,4 @@ style: |
 </div>
 
 ---
+
