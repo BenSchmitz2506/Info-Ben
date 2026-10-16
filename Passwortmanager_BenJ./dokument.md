@@ -14,3 +14,16 @@ Quellen:
 
 
 - [Keepass](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj-1eOFybuXAxUVVPEDHRTpOYkQFnoECBAQAQ&url=CAESUAHrOzAVI-52G3DpoXwbqSxNQij11G_r975h4p92mEsfb_xMjfaG6Y1rxa-74Oum8waojhuLG8IFe-OSvRwS7P8O0zwciBPv_DEXvY0P3tku&uoh=2&usg=AOvVaw2VpSpEs9tyjeUBYNKyLUL7&opi=89978449) 
+
+
+16.10.26 präsi fertig quellen:Verbraucherzentrale: Sind Passwort-Manager sinnvoll? – https://www.verbraucherzentrale.de/wissen/digitale-welt/datenschutz/sind-passwortmanager-sinnvoll-114154
+
+Bundesamt für Sicherheit in der Informationstechnik (BSI): Sicherheitstipps – https://www.bsi.bund.de
+
+Verbraucherzentrale NRW: 10 Passwort-Manager im Vergleich – https://www.verbraucherzentrale.nrw/wissen/digitale-welt/apps-und-software/10-passwortmanager-im-vergleich-113439
+
+Bitwarden: Tarife und Funktionen – https://bitwarden.com/de-de/help/password-manager-plans/
+
+KeePass: Offizielle Website – https://keepass.info/features.html
+
+1Password: Preise und Funktionen – https://1password.com/de/pricing/personal
