@@ -156,8 +156,13 @@ style: |
 
 </div>
 <!--
-Warum Passwortmanagergerade jetzt wichtig sind?
-Mein Ziel ist es zu erklären, wie Passwortmanager unsere Konten schützen und warum sie nützlich sind.
+Warum Passwortmanager gerade jetzt wichtig sind?
+- Mehr Cyberangriffe: Sie schützen vor gestohlenen Passwörtern.
+- Viele Konten: Sie verwalten alle Passwörter an einem Ort.
+Wie schützen sie unsere Konten?
+- Starke Passwörter: Sie erstellen schwer zu knackende Passwörter.
+- Verschlüsselung: Sie speichern Passwörter sicher.
+
 -->
 
 <div class="fusszeile">
@@ -183,6 +188,7 @@ Mein Ziel ist es zu erklären, wie Passwortmanager unsere Konten schützen und w
 
 </div>
 <!--
+Welche wichtigen Funktionen kann ich kostenlos nutzen?
 -  Unbegrenzt viele Passwörter speichern 
 -  Auf mehreren Geräten synchronisieren
 -  Automatisches Ausfüllen
@@ -221,7 +227,7 @@ Mein Ziel ist es zu erklären, wie Passwortmanager unsere Konten schützen und w
   -  Abhängigkeit von der Software
 
 <!--
-
+Vor-& Nachteile eines Passwortmanagers
 **Vorteil**
 
   -  Mehr Sicherheit
@@ -268,6 +274,7 @@ Mein Ziel ist es zu erklären, wie Passwortmanager unsere Konten schützen und w
   - Sichere Passwörter erstellen
 
 <!--
+Unterschiede Kostenpflichtige und Kostenlose Version
 **Unterschiede**
 
   -  Kosten
@@ -323,6 +330,7 @@ Mein Ziel ist es zu erklären, wie Passwortmanager unsere Konten schützen und w
   - Unterschiede: Lokale Speicherung, Synchronisierung muss selbst eingerichtet werden.
 
 <!--
+Drei Passwortmanager im Überblick
 **Bitwarden**
 
   - Kostenmodell: Kostenlos und kostenpflichtig
@@ -350,7 +358,7 @@ Mein Ziel ist es zu erklären, wie Passwortmanager unsere Konten schützen und w
 
 <div class="titel">
 
-# Merksatz 
+# Merksatz  
 
 </div>
 
@@ -365,6 +373,7 @@ Mein Ziel ist es zu erklären, wie Passwortmanager unsere Konten schützen und w
 
 </div>
 <!--
+Merksatz 
 Ein Passwortmanager schützt deine Passwörter, damit du deine Online-Konten sicherer und einfacher nutzen kannst – du musst dir nur noch ein starkes Master-Passwort merken.
 - wegen der vielen Hackerangriffen in der letzten Zeit
 - und es auch so blöd wäre wenn andere auf deine persönlichen sachen zugreifen können 
@@ -389,7 +398,7 @@ Ein Passwortmanager schützt deine Passwörter, damit du deine Online-Konten sic
 - Erstellen starker Passwörter
 
 <!--
-Warum sind Passwortmanager heute wichtig?
+Warum sind Passwortmanager heute insgesamt so wichtig?
 - Schutz vor Hackern und Datendiebstahl: Starke Passwörter sind schwerer zu knacken und schützen unsere Konten besser.
 - Verhindern mehrfach verwendeter Passwörter: Wenn ein Passwort gestohlen wird, bleiben andere Konten mit eigenen Passwörtern besser geschützt.
 - Schutz persönlicher Daten und Konten: Passwortmanager helfen dabei, private Informationen vor fremdem Zugriff zu schützen.
